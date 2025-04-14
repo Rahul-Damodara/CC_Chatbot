@@ -10,7 +10,7 @@ load_dotenv()
 
 # Set page configuration
 st.set_page_config(
-    page_title="RAG Chat System",
+    page_title="AI Assistant",
     page_icon="🤖",
     layout="wide"
 )
